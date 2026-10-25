@@ -59,7 +59,22 @@ tests/test_cases.py
 - CF rule bertanda *heuristik* dan bobot kelas adalah perkiraan penyusun; validasikan dengan pakar/literatur.
 
 ## Screenshot / demo
-(tambahkan tangkapan layar setelah aplikasi dijalankan)
+1. Halaman Panduan dan Aturan Penggunaan
+<img width="1869" height="823" alt="image" src="https://github.com/user-attachments/assets/3068a7c6-6731-4eda-9985-02befdd400fe" />
+
+
+2. Halaman Konsultasi
+<img width="1902" height="826" alt="image" src="https://github.com/user-attachments/assets/caad9e6f-a101-4f5f-95f4-f838a3c0fa0b" />
+
+
+3. Halaman Basis Pengetahuan (Knowledge Base)
+<img width="1897" height="819" alt="image" src="https://github.com/user-attachments/assets/05562a16-a6a8-4370-aea0-6c1e8867a486" />
+
+
+4. Halaman Riwayat dan Statistik
+<img width="1918" height="814" alt="image" src="https://github.com/user-attachments/assets/7300fef1-2a9a-4c34-ba64-44e21e8a7fa0" />
+
+
 
 ## Kontributor
 | Anggota | Bagian |
